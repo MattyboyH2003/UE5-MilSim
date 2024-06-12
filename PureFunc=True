@@ -1,0 +1,29 @@
+[1mdiff --git a/Content/VigilanteContent/Shared/Materials/M_Master_Glass_ARM_N.uasset b/Content/VigilanteContent/Shared/Materials/M_Master_Glass_ARM_N.uasset[m
+[1mindex 7dee0e4..8f6f2eb 100644[m
+Binary files a/Content/VigilanteContent/Shared/Materials/M_Master_Glass_ARM_N.uasset and b/Content/VigilanteContent/Shared/Materials/M_Master_Glass_ARM_N.uasset differ
+[1mdiff --git a/Content/VigilanteContent/Vehicles/West_Truck_M983HEMTT/BP_West_Truck_M983HEMTT.uasset b/Content/VigilanteContent/Vehicles/West_Truck_M983HEMTT/BP_West_Truck_M983HEMTT.uasset[m
+[1mindex 11322c0..96cdc62 100644[m
+Binary files a/Content/VigilanteContent/Vehicles/West_Truck_M983HEMTT/BP_West_Truck_M983HEMTT.uasset and b/Content/VigilanteContent/Vehicles/West_Truck_M983HEMTT/BP_West_Truck_M983HEMTT.uasset differ
+[1mdiff --git a/Content/VigilanteContent/Vehicles/West_Truck_M983HEMTT/BP_West_Truck_M983HEMTT_Showcase.uasset b/Content/VigilanteContent/Vehicles/West_Truck_M983HEMTT/BP_West_Truck_M983HEMTT_Showcase.uasset[m
+[1mdeleted file mode 100644[m
+[1mindex 43b3afc..0000000[m
+Binary files a/Content/VigilanteContent/Vehicles/West_Truck_M983HEMTT/BP_West_Truck_M983HEMTT_Showcase.uasset and /dev/null differ
+[1mdiff --git a/Content/VigilanteContent/Vehicles/West_Truck_M983HEMTT/Materials/MI_West_Truck_M983HEMTT_Glass.uasset b/Content/VigilanteContent/Vehicles/West_Truck_M983HEMTT/Materials/MI_West_Truck_M983HEMTT_Glass.uasset[m
+[1mindex 975fa76..92baaee 100644[m
+Binary files a/Content/VigilanteContent/Vehicles/West_Truck_M983HEMTT/Materials/MI_West_Truck_M983HEMTT_Glass.uasset and b/Content/VigilanteContent/Vehicles/West_Truck_M983HEMTT/Materials/MI_West_Truck_M983HEMTT_Glass.uasset differ
+[1mdiff --git a/UE5_MilSim.uproject b/UE5_MilSim.uproject[m
+[1mindex 6fa6e61..f276185 100644[m
+[1m--- a/UE5_MilSim.uproject[m
+[1m+++ b/UE5_MilSim.uproject[m
+[36m@@ -21,6 +21,10 @@[m
+ 		{[m
+ 			"Name": "MultiUserClient",[m
+ 			"Enabled": true[m
+[32m+[m		[32m},[m
+[32m+[m		[32m{[m
+[32m+[m			[32m"Name": "ChaosVehiclesPlugin",[m
+[32m+[m			[32m"Enabled": true[m
+ 		}[m
+ 	][m
+ }[m
+\ No newline at end of file[m
